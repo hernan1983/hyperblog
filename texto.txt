@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
 Este es mi primer archivo en git
 Lo estoy modificando
 obra maestra
+=======
+Este es otro texto a subir a git
+>>>>>>> cabecera

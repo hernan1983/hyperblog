@@ -1,0 +1,28 @@
+[33mcommit 60bffb45620c23682caf20aba38979fe061b5e3e[m[33m ([m[1;36mHEAD -> [m[1;32mcabecera[m[33m)[m
+Author: Hernan Ferreyra <her1983@gmail.com>
+Date:   Tue Nov 10 11:04:31 2020 -0300
+
+    ultima change
+
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mindex 51fc9c3..7f2fd56 100644[m
+[1m--- a/css/estilos.css[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -1,5 +1,5 @@[m
+ body{[m
+     text-align: center;[m
+     font-family: Arial, Helvetica, sans-serif;[m
+[31m-    color: red;[m
+[32m+[m[32m    color: #000;[m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/texto.txt b/texto.txt[m
+[1mindex b981171..a644c9e 100644[m
+[1m--- a/texto.txt[m
+[1m+++ b/texto.txt[m
+[36m@@ -1,2 +1,2 @@[m
+ [m
+[31m-Este es mi primer archivo en git[m
+\ No newline at end of file[m
+[32m+[m[32mEste es otro texto a subir a git[m
+\ No newline at end of file[m
