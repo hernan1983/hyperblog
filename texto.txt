@@ -6,3 +6,5 @@ obra maestra
 =======
 Este es otro texto a subir a git
 >>>>>>> cabecera
+master 1
+master 2
